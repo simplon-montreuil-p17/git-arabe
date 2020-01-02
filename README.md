@@ -10,3 +10,5 @@ c’est ce soldat qui a inspiré steven spielberg pour le film <<il faut sauver 
 The end! mais en fait c'etait pas vraiment la fin car il devait aller
 à la cueillette aux champignons, qui étaient...hallucinogènes !
 
+Il a donc mangé tous ses champignons et est mort étouffé.
+
