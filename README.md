@@ -5,3 +5,4 @@ qui mangeait de la salade de couleur verte.
 Hello World
 
 ce soldat qui jouait au [Cadavre_exquis](https://fr.wikipedia.org/wiki/Cadavre_exquis)
+c’est ce soldat qui a inspiré steven spielberg pour le film <<il faut sauver le soldat rayan>>
